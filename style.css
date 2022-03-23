@@ -29,6 +29,9 @@
 	background-color: #FEF9E7;
 }
 
+#nav{
+	opacity: 80%;
+}
 #nav #logo{
 	margin-left: 5px;
 	height: 45px;
